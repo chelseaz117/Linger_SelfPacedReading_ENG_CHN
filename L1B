@@ -1,0 +1,144 @@
+G16,14,FILL,ACTIVE,POSS-REL,DEM-,,使唤@region1,航空公司@region2,的@de1,,飞行员@NP1,的@de2,顾客@NP2,是加拿大人@end,谁使唤了飞行员？（A.航空公司 B.顾客 C.航空公司或者顾客）
+G3,14,MAIN,ACTIVE,BIAS-LOW,DEM-,,写好了@region1,人物传记@region2,的@de1,,作家@NP1,的@de2,出版社@NP2,成立100年了。@end,谁写好了人物传记？（A.出版社 B.作家 C.出版社或者作家）
+G3,4,MAIN,PASSIVE,BIAS-HIGH,DEM+,被@passive,读者@region1,烫伤@region2,的@de1,那个@dem,出版社@NP1,的@de2,作家@NP2,三十岁了。@end,谁被@passive读者烫伤？（A.出版社 B.作家 C.出版社或者作家）
+G7,6,MAIN,ACTIVE,BIAS-HIGH,DEM-,,娶了@region1,客户@region2,的@de1,,公司@NP1,的@de2,总裁@NP2,离婚了。@end,谁娶了客户？（A.公司 B.总裁 C.公司或者总裁）
+G12,14,FILL,ACTIVE,POSS-REL,DEM-,,嫁给了@region1,电视台@region2,的@de1,,明星@NP1,的@de2,老板@NP2,播出了新闻。@end,谁嫁给了明星？（A.电视台 B.老板 C.电视台或者老板）
+G4,16,MAIN,PASSIVE,BIAS-LOW,DEM-,被@passive,顾客@region1,打伤@region2,的@de1,,健身教练@NP1,的@de2,健身房@NP2,每天都开。@end,谁被@passive顾客打伤了？（A.健身房 B.健身教练 C.健身房或者健身教练）
+G9,4,MAIN,PASSIVE,BIAS-HIGH,DEM+,被@passive,学生@region1,误伤@region2,的@de1,那个@dem,事务所@NP1,的@de2,会计@NP2,没有证书。@end,谁被@passive学生误伤？（A.事务所 B.会计 C.事务所或者会计）
+G14,5,MAIN,ACTIVE,EQUI,DEM-,,购买了@region1,画作@region2,的@de1,,美术馆@NP1,的@de2,投资人@NP2,住在芝加哥。@end,谁购买了画作（A.美术馆 B.投资人 C.美术馆或者投资人）
+G6,10,MAIN,ACTIVE,BIAS-LOW,DEM+,,讨厌@region1,证人@region2,的@de1,那个@dem,律师@NP1,的@de2,法庭@NP2,规则很多。@end,谁讨厌证人？（A.法庭 B.律师 C.法庭或者律师）
+G13,6,FILL,ACTIVE,POSS-REL,DEM-,,激怒了@region1,研究所@region2,的@de1,,老师@NP1,的@de2,学生@NP2,住在学校。@end,谁激怒了老师？（A.研究所 B.学生 C.研究所或者学生）
+G7,5,FILL,ACTIVE,POSS-REL,DEM-,,暗杀了@region1,公司@region2,的@de1,,客户@NP1,的@de2,总裁@NP2,离婚了。@end,谁暗杀了客户？（A.公司 B.总裁 C.公司或者总裁）
+G7,4,MAIN,PASSIVE,BIAS-HIGH,DEM+,被@passive,政府@region1,关押@region2,的@de1,那个@dem,公司@NP1,的@de2,总裁@NP2,离婚了。@end,谁被@passive政府关押？（A.公司 B.总裁 C.公司或者总裁）
+G13,9,MAIN,ACTIVE,EQUI,DEM+,,需要@region1,老师@region2,的@de1,那个@dem,学生@NP1,的@de2,研究所@NP2,有三层楼。@end,谁需要老师？（A.研究所 B.学生 C.研究所或者学生）
+G1,4,MAIN,PASSIVE,BIAS-HIGH,DEM+,被@passive,病人@region1,扇耳光@region2,的@de1,那个@dem,诊所@NP1,的@de2,医生@NP2,离开了。@end,谁被@passive病人扇了耳光？（A. 诊所 B. 医生 C.诊所或者医生 ）
+G5,5,FILL,ACTIVE,POSS-REL,DEM-,,迫害@region1,国家@region2,的@de1,,人民@NP1,的@de2,总统@NP2,60岁了。@end,谁迫害人民？（A.国家 B.总统 C.国家或者总统）
+G8,3,MAIN,PASSIVE,EQUI,DEM+,被@passive,医院@region1,拒绝@region2,的@de1,那个@dem,保险公司@NP1,的@de2,推销员@NP2,喜欢打保龄球。@end,谁被@passive医院拒绝了？（A.保险公司 B.推销员 C.保险公司或者推销员）
+G5,6,MAIN,ACTIVE,BIAS-HIGH,DEM-,,拥抱@region1,人民@region2,的@de1,,国家@NP1,的@de2,总统@NP2,60岁了。@end,谁拥抱了人民？（A.国家 B.总统 C.国家或者总统）
+G12,3,MAIN,PASSIVE,EQUI,DEM+,被@passive,法院@region1,封杀@region2,的@de1,那个@dem,电视台@NP1,的@de2,明星@NP2,没读过大学。@end,谁被@passive法院封杀？（A.电视台 B.明星 C.电视台或者明星）
+G7,15,MAIN,PASSIVE,EQUI,DEM-,被@passive,政府@region1,查税@region2,的@de1,,总裁@NP1,的@de2,公司@NP2,做服装生意。@end,谁被@passive政府查税？（A.公司 B.总裁 C.公司或者总裁）
+G14,2,MAIN,ACTIVE,BIAS-HIGH,DEM+,,撕破了@region1,画作@region2,的@de1,那个@dem,美术馆@NP1,的@de2,投资人@NP2,住在芝加哥。@end,谁撕破了画作（A.美术馆 B.投资人 C.美术馆或者投资人）
+G15,14,MAIN,ACTIVE,BIAS-LOW,DEM-,,认识@region1,听众@region2,的@de1,,主播@NP1,的@de2,电台@NP2,早上播流行音乐。@end,谁认识听众？（A.电台B.主播 C.电台或者主播）
+G10,13,MAIN,ACTIVE,EQUI,DEM-,,赶走@region1,公民@region2,的@de1,,员工@NP1,的@de2,大使馆@NP2,今天不上班。@end,谁赶走了公民？（A.大使馆 B.员工 C.大使馆或者员工）
+G13,6,MAIN,ACTIVE,BIAS-HIGH,DEM-,,激怒了@region1,老师@region2,的@de1,,研究所@NP1,的@de2,学生@NP2,住在学校。@end,谁激怒了老师？（A.研究所 B.学生 C.研究所或者学生）
+G3,15,MAIN,PASSIVE,EQUI,DEM-,被@passive,读者@region1,喜爱@region2,的@de1,,作家@NP1,的@de2,出版社@NP2,成立100年了。@end,谁被@passive读者喜爱？（A.出版社 B.作家 C.出版社或者作家）
+G14,10,MAIN,ACTIVE,BIAS-LOW,DEM+,,撕破了@region1,画作@region2,的@de1,那个@dem,投资人@NP1,的@de2,美术馆@NP2,今天关门。@end,谁撕破了画作（A.美术馆 B.投资人 C.美术馆或者投资人）
+G14,16,MAIN,PASSIVE,BIAS-LOW,DEM-,被@passive,董事会@region1,开除@region2,的@de1,,投资人@NP1,的@de2,美术馆@NP2,今天关门。@end,谁董事会开除了？（A.美术馆 B.投资人 C.美术馆或者投资人）
+G13,12,MAIN,PASSIVE,BIAS-LOW,DEM+,被@passive,学校@region1,开除@region2,的@de1,那个@dem,学生@NP1,的@de2,研究所@NP2,有三层楼。@end,谁被@passive学校开除了？（A.研究所 B.学生 C.研究所或者学生）
+G8,5,FILL,ACTIVE,POSS-REL,DEM-,,绑架@region1,保险公司@region2,的@de1,,邻居@NP1,的@de2,推销员@NP2,喜欢打保龄球。@end,谁绑架了邻居？（A.保险公司 B.推销员 C.保险公司或者推销员）
+G11,14,FILL,ACTIVE,POSS-REL,DEM-,,谋杀了@region1,艺术团@region2,的@de1,,演员@NP1,的@de2,领导@NP2,刚大学毕业@end,谁谋杀了演员？（A.艺术团 B.领导 C.艺术团或者领导）
+G15,5,FILL,ACTIVE,POSS-REL,DEM-,,背着@region1,电台@region2,的@de1,,听众@NP1,的@de2,主播@NP2,失去了姐姐。@end,谁背着听众？（A.电台B.主播 C.电台或者主播）
+G5,9,MAIN,ACTIVE,EQUI,DEM+,,迫害@region1,人民@region2,的@de1,那个@dem,总统@NP1,的@de2,国家@NP2,经济很差。@end,谁迫害人民？（A.国家 B.总统 C.国家或者总统）
+G11,12,MAIN,PASSIVE,BIAS-LOW,DEM+,被@passive,群众@region1,吐口水@region2,的@de1,那个@dem,演员@NP1,的@de2,艺术团@NP2,明天演出@end,谁被@passive群众吐口水？（A.艺术团 B.演员 C.艺术团或者演员）
+G5,14,MAIN,ACTIVE,BIAS-LOW,DEM-,,拥抱@region1,人民@region2,的@de1,,总统@NP1,的@de2,国家@NP2,经济很差。@end,谁拥抱了人民？（A.国家 B.总统 C.国家或者总统）
+G15,12,MAIN,PASSIVE,BIAS-LOW,DEM+,被@passive,经理@region1,解雇@region2,的@de1,那个@dem,主播@NP1,的@de2,电台@NP2,早上播流行音乐。@end,谁被@passive经理解雇了？（A.电台B.主播 C.电台或者主播）
+G14,8,MAIN,PASSIVE,BIAS-HIGH,DEM-,被@passive,董事会@region1,开除@region2,的@de1,,美术馆@NP1,的@de2,投资人@NP2,住在芝加哥。@end,谁董事会开除了？（A.美术馆 B.投资人 C.美术馆或者投资人）
+G10,16,MAIN,PASSIVE,BIAS-LOW,DEM-,被@passive,警察@region1,打死@region2,的@de1,,员工@NP1,的@de2,大使馆@NP2,今天不上班。@end,谁被@passive警察打死了？（A.大使馆 B.员工 C.大使馆或者员工）
+G12,11,MAIN,PASSIVE,EQUI,DEM+,被@passive,法院@region1,封杀@region2,的@de1,那个@dem,明星@NP1,的@de2,电视台@NP2,播出了新闻。@end,谁被@passive法院封杀？（A.电视台 B.明星 C.电视台或者明星）
+G6,2,MAIN,ACTIVE,BIAS-HIGH,DEM+,,讨厌@region1,证人@region2,的@de1,那个@dem,法庭  @NP1,的@de2,律师@NP2,有两个孩子@end,谁讨厌证人？（A.法庭 B.律师 C.法庭或者律师）
+G11,5,FILL,ACTIVE,POSS-REL,DEM-,,灌醉了@region1,艺术团@region2,的@de1,,领导@NP1,的@de2,演员@NP2,刚大学毕业@end,谁灌醉了领导？（A.艺术团 B.演员 C.艺术团或者演员）
+G11,6,MAIN,ACTIVE,BIAS-HIGH,DEM-,,离开了@region1,领导@region2,的@de1,,艺术团@NP1,的@de2,演员@NP2,刚大学毕业@end,谁离开了领导？（A.艺术团 B.演员 C.艺术团或者演员）
+G5,14,FILL,ACTIVE,POSS-REL,DEM-,,拥抱@region1,国家@region2,的@de1,,总统@NP1,的@de2,人民@NP2,60岁了。@end,谁拥抱了总统？（A.国家 B.人民 C.国家或者人民）
+G7,12,MAIN,PASSIVE,BIAS-LOW,DEM+,被@passive,政府@region1,关押@region2,的@de1,那个@dem,总裁@NP1,的@de2,公司@NP2,做服装生意。@end,谁被@passive政府关押？（A.公司 B.总裁 C.公司或者总裁）
+G2,6,FILL,ACTIVE,POSS-REL,DEM-,,拥抱了@region1,学校@region2,的@de1,,学生@NP1,的@de2,老师@NP2,在纽约。@end,谁拥抱了了学生？（A. 学校 B. 老师 C.学校或者老师 ）
+G2,13,MAIN,ACTIVE,EQUI,DEM-,,奖励了@region1,学生@region2,的@de1,,老师@NP1,的@de2,学校@NP2,正在放暑假。@end,谁奖励了学生？（A. 学校 B. 老师 C.学校或者老师 ）
+G7,14,FILL,ACTIVE,POSS-REL,DEM-,,娶了@region1,公司@region2,的@de1,,总裁@NP1,的@de2,客户@NP2,做服装生意。@end,谁娶了总裁？（A.公司 B.客户 C.公司或者客户）
+G6,13,MAIN,ACTIVE,EQUI,DEM-,,需要@region1,证人@region2,的@de1,,律师@NP1,的@de2,法庭@NP2,规则很多。@end,谁需要证人？（A.法庭 B.律师 C.法庭或者律师）
+G2,16,MAIN,PASSIVE,BIAS-LOW,DEM-,被@passive,家长们@region1,殴打@region2,的@de1,,老师@NP1,的@de2,学校@NP2,正在放暑假。@end,谁被@passive家长们殴打了？（A. 学校 B. 老师 C.学校或者老师 ）
+G1,14,MAIN,ACTIVE,BIAS-LOW,DEM-,,亲吻@region1,婴儿@region2,的@de1,,医生@NP1,的@de2,诊所@NP2,关门了。@end,谁亲吻了婴儿？（A. 诊所 B. 医生 C.诊所或者医生 ）
+G3,12,MAIN,PASSIVE,BIAS-LOW,DEM+,被@passive,读者@region1,烫伤@region2,的@de1,那个@dem,作家@NP1,的@de2,出版社@NP2,成立100年了。@end,谁被@passive读者烫伤？（A.出版社 B.作家 C.出版社或者作家）
+G8,10,MAIN,ACTIVE,BIAS-LOW,DEM+,,打伤@region1,邻居@region2,的@de1,那个@dem,推销员@NP1,的@de2,保险公司@NP2,有20年历史。@end,谁打伤了邻居？（A.保险公司 B.推销员 C.保险公司或者推销员）
+G5,7,MAIN,PASSIVE,EQUI,DEM-,被@passive,军队@region1,保护@region2,的@de1,,国家@NP1,的@de2,总统@NP2,60岁了。@end,谁被@passive军队保护？（A.国家 B.总统 C.国家或者总统）
+G1,7,MAIN,PASSIVE,EQUI,DEM-,被@passive,病人@region1,投诉@region2,的@de1,,诊所@NP1,的@de2,医生@NP2,离开了。@end,谁被@passive病人投诉了？（A. 诊所 B. 医生 C.诊所或者医生 ）
+G9,14,MAIN,ACTIVE,BIAS-LOW,DEM-,,撞死@region1,保姆@region2,的@de1,,会计@NP1,的@de2,事务所@NP2,在外州。@end,谁撞死了保姆？（A.事务所 B.会计 C.事务所或者会计）
+G15,4,MAIN,PASSIVE,BIAS-HIGH,DEM+,被@passive,经理@region1,解雇@region2,的@de1,那个@dem,电台@NP1,的@de2,主播@NP2,失去了姐姐。@end,谁被@passive经理解雇了？（A.电台B.主播 C.电台或者主播）
+G1,6,FILL,ACTIVE,POSS-REL,DEM-,,亲吻@region1,诊所@region2,的@de1,,婴儿@NP1,的@de2,医生@NP2,离开了。@end,谁亲吻了婴儿？（A. 诊所 B. 医生 C.诊所或者医生 ）
+G6,5,MAIN,ACTIVE,EQUI,DEM-,,需要@region1,证人@region2,的@de1,,法庭  @NP1,的@de2,律师@NP2,有两个孩子@end,谁需要证人？（A.法庭 B.律师 C.法庭或者律师）
+G4,8,MAIN,PASSIVE,BIAS-HIGH,DEM-,被@passive,顾客@region1,打伤@region2,的@de1,,健身房@NP1,的@de2,健身教练@NP2,正在吃晚饭。@end,谁被@passive顾客打伤了？（A.健身房 B.健身教练 C.健身房或者健身教练）
+G12,2,MAIN,ACTIVE,BIAS-HIGH,DEM+,,嫁给了@region1,老板@region2,的@de1,那个@dem,电视台@NP1,的@de2,明星@NP2,没读过大学。@end,谁嫁给了老板？（A.电视台 B.明星 C.电视台或者明星）
+G16,16,MAIN,PASSIVE,BIAS-LOW,DEM-,被@passive,乘客@region1,刺伤@region2,的@de1,,飞行员@NP1,的@de2,航空公司@NP2,安全飞行了15年。@end,谁被@passive乘客刺伤了？（A.航空公司 B.飞行员 C.航空公司或者飞行员）
+G13,5,FILL,ACTIVE,POSS-REL,DEM-,,砸伤@region1,研究所@region2,的@de1,,老师@NP1,的@de2,学生@NP2,住在学校。@end,谁砸伤了老师？（A.研究所 B.学生 C.研究所或者学生）
+G10,14,FILL,ACTIVE,POSS-REL,DEM-,,责骂@region1,大使馆@region2,的@de1,,员工@NP1,的@de2,公民@NP2,今天不上班。@end,谁责骂了员工？（A.大使馆 B.公民 C.大使馆或者公民）
+G5,6,FILL,ACTIVE,POSS-REL,DEM-,,拥抱@region1,国家@region2,的@de1,,人民@NP1,的@de2,总统@NP2,60岁了。@end,谁拥抱了人民？（A.国家 B.总统 C.国家或者总统）
+G10,10,MAIN,ACTIVE,BIAS-LOW,DEM+,,责骂@region1,公民@region2,的@de1,那个@dem,员工@NP1,的@de2,大使馆@NP2,今天不上班。@end,谁责骂了公民？（A.大使馆 B.员工 C.大使馆或者员工）
+G10,5,FILL,ACTIVE,POSS-REL,DEM-,,赶走@region1,大使馆@region2,的@de1,,公民@NP1,的@de2,员工@NP2,没有结婚。@end,谁赶走了公民？（A.大使馆 B.员工 C.大使馆或者员工）
+G2,5,FILL,ACTIVE,POSS-REL,DEM-,,体罚@region1,学校@region2,的@de1,,学生@NP1,的@de2,老师@NP2,在纽约。@end,谁体罚了学生？（A. 学校 B. 老师 C.学校或者老师 ）
+G14,5,FILL,ACTIVE,POSS-REL,DEM-,,偷走@region1,美术馆@region2,的@de1,,画作@NP1,的@de2,投资人@NP2,住在芝加哥。@end,谁偷走了画作（A.美术馆 B.投资人 C.美术馆或者投资人）
+G4,5,FILL,ACTIVE,POSS-REL,DEM-,,招收@region1,健身房@region2,的@de1,,学员@NP1,的@de2,健身教练@NP2,正在吃晚饭。@end,谁招收学员？（A.健身房 B.健身教练 C.健身房或者健身教练）
+G4,10,MAIN,ACTIVE,BIAS-LOW,DEM+,,训练@region1,学员@region2,的@de1,那个@dem,健身教练@NP1,的@de2,健身房@NP2,每天都开。@end,谁训练学员？（A.健身房 B.健身教练 C.健身房或者健身教练）
+G7,1,MAIN,ACTIVE,EQUI,DEM+,,吸引了@region1,客户@region2,的@de1,那个@dem,公司@NP1,的@de2,总裁@NP2,离婚了。@end,谁吸引了客户？（A.公司 B.总裁 C.公司或者总裁）
+G1,9,MAIN,ACTIVE,EQUI,DEM+,,治疗@region1,婴儿@region2,的@de1,那个@dem,医生@NP1,的@de2,诊所@NP2,关门了。@end,谁治疗了婴儿? （A. 诊所 B. 医生 C.诊所或者医生 ）
+G3,14,FILL,ACTIVE,POSS-REL,DEM-,,描写@region1,出版社@region2,的@de1,,作家@NP1,的@de2,人物传记@NP2,卖得很好@end,谁描写作家？（A.出版社 B.人物传记 C.出版社或者人物传记）
+G16,5,FILL,ACTIVE,POSS-REL,DEM-,,娶了@region1,航空公司@region2,的@de1,,顾客@NP1,的@de2,飞行员@NP2,是加拿大人@end,谁娶了顾客？（A.航空公司 B.飞行员 C.航空公司或者飞行员）
+G3,6,MAIN,ACTIVE,BIAS-HIGH,DEM-,,写好了@region1,人物传记@region2,的@de1,,出版社@NP1,的@de2,作家@NP2,三十岁了。@end,谁写好了人物传记？（A.出版社 B.作家 C.出版社或者作家）
+G15,6,MAIN,ACTIVE,BIAS-HIGH,DEM-,,认识@region1,听众@region2,的@de1,,电台@NP1,的@de2,主播@NP2,失去了姐姐。@end,谁认识听众？（A.电台B.主播 C.电台或者主播）
+G4,3,MAIN,PASSIVE,EQUI,DEM+,被@passive,顾客@region1,投诉@region2,的@de1,那个@dem,健身房@NP1,的@de2,健身教练@NP2,正在吃晚饭。@end,谁被@passive顾客投诉了？（A.健身房 B.健身教练 C.健身房或者健身教练）
+G5,12,MAIN,PASSIVE,BIAS-LOW,DEM+,被@passive,军队@region1,处死@region2,的@de1,那个@dem,总统@NP1,的@de2,国家@NP2,经济很差。@end,谁被@passive军队处死？（A.国家 B.总统 C.国家或者总统）
+G13,14,FILL,ACTIVE,POSS-REL,DEM-,,激怒了@region1,研究所@region2,的@de1,,学生@NP1,的@de2,老师@NP2,住在学校。@end,谁激怒了学生？（A.研究所 B.老师 C.研究所或者老师）
+G1,5,FILL,ACTIVE,POSS-REL,DEM-,,治疗@region1,诊所@region2,的@de1,,婴儿@NP1,的@de2,医生@NP2,离开了。@end,谁治疗了婴儿? （A. 诊所 B. 医生 C.诊所或者医生 ）
+G8,6,FILL,ACTIVE,POSS-REL,DEM-,,打伤@region1,保险公司@region2,的@de1,,邻居@NP1,的@de2,推销员@NP2,喜欢打保龄球。@end,谁打伤了邻居？（A.保险公司 B.推销员 C.保险公司或者推销员）
+G9,12,MAIN,PASSIVE,BIAS-LOW,DEM+,被@passive,学生@region1,误伤@region2,的@de1,那个@dem,会计@NP1,的@de2,事务所@NP2,在外州。@end,谁被@passive学生误伤？（A.事务所 B.会计 C.事务所或者会计）
+G16,11,MAIN,PASSIVE,EQUI,DEM+,被@passive,乘客@region1,选择@region2,的@de1,那个@dem,飞行员@NP1,的@de2,航空公司@NP2,安全飞行了15年。@end,谁被@passive乘客选择了？（A.航空公司 B.飞行员 C.航空公司或者飞行员）
+G15,6,FILL,ACTIVE,POSS-REL,DEM-,,认识@region1,电台@region2,的@de1,,听众@NP1,的@de2,主播@NP2,失去了姐姐。@end,谁认识听众？（A.电台B.主播 C.电台或者主播）
+G16,8,MAIN,PASSIVE,BIAS-HIGH,DEM-,被@passive,乘客@region1,刺伤@region2,的@de1,,航空公司@NP1,的@de2,飞行员@NP2,是加拿大人@end,谁被@passive乘客刺伤了？（A.航空公司 B.飞行员 C.航空公司或者飞行员）
+G2,8,MAIN,PASSIVE,BIAS-HIGH,DEM-,被@passive,家长们@region1,殴打@region2,的@de1,,学校@NP1,的@de2,老师@NP2,在纽约。@end,谁被@passive家长们殴打了？（A. 学校 B. 老师 C.学校或者老师 ）
+G5,4,MAIN,PASSIVE,BIAS-HIGH,DEM+,被@passive,军队@region1,处死@region2,的@de1,那个@dem,国家@NP1,的@de2,总统@NP2,60岁了。@end,谁被@passive军队处死？（A.国家 B.总统 C.国家或者总统）
+G12,5,FILL,ACTIVE,POSS-REL,DEM-,,囚禁@region1,电视台@region2,的@de1,,老板@NP1,的@de2,明星@NP2,没读过大学。@end,谁囚禁了老板？（A.电视台 B.明星 C.电视台或者明星）
+G1,12,MAIN,PASSIVE,BIAS-LOW,DEM+,被@passive,病人@region1,扇耳光@region2,的@de1,那个@dem,医生@NP1,的@de2,诊所@NP2,关门了。@end,谁被@passive病人扇了耳光？（A. 诊所 B. 医生 C.诊所或者医生 ）
+G14,13,MAIN,ACTIVE,EQUI,DEM-,,购买了@region1,画作@region2,的@de1,,投资人@NP1,的@de2,美术馆@NP2,今天关门。@end,谁购买了画作（A.美术馆 B.投资人 C.美术馆或者投资人）
+G10,6,FILL,ACTIVE,POSS-REL,DEM-,,责骂@region1,大使馆@region2,的@de1,,公民@NP1,的@de2,员工@NP2,没有结婚。@end,谁责骂了公民？（A.大使馆 B.员工 C.大使馆或者员工）
+G6,16,MAIN,PASSIVE,BIAS-LOW,DEM-,被@passive,协会@region1,废除资格@region2,的@de1,,律师@NP1,的@de2,法庭  @NP2,规则很多。@end,谁被@passive协会废除从业资格了？（A.法庭 B.律师 C.法庭或者律师）
+G13,4,MAIN,PASSIVE,BIAS-HIGH,DEM+,被@passive,学校@region1,开除@region2,的@de1,那个@dem,研究所@NP1,的@de2,学生@NP2,住在学校。@end,谁被@passive学校开除了？（A.研究所 B.学生 C.研究所或者学生）
+G7,6,FILL,ACTIVE,POSS-REL,DEM-,,娶了@region1,公司@region2,的@de1,,客户@NP1,的@de2,总裁@NP2,离婚了。@end,谁娶了客户？（A.公司 B.总裁 C.公司或者总裁）
+G6,6,FILL,ACTIVE,POSS-REL,DEM-,,绊倒了@region1,法庭  @region2,的@de1,,证人@NP1,的@de2,律师@NP2,有两个孩子@end,谁绊倒了证人？（A.法庭 B.律师 C.法庭或者律师）
+G13,14,MAIN,ACTIVE,BIAS-LOW,DEM-,,激怒了@region1,老师@region2,的@de1,,学生@NP1,的@de2,研究所@NP2,有三层楼。@end,谁激怒了老师？（A.研究所 B.学生 C.研究所或者学生）
+G9,14,FILL,ACTIVE,POSS-REL,DEM-,,撞死@region1,事务所@region2,的@de1,,会计@NP1,的@de2,保姆@NP2,在外州。@end,谁撞死了会计？（A.事务所 B.保姆 C.事务所或者保姆）
+G3,5,FILL,ACTIVE,POSS-REL,DEM-,,购买@region1,出版社@region2,的@de1,,人物传记@NP1,的@de2,作家@NP2,三十岁了。@end,谁购买了人物传记？（A.出版社 B.作家 C.出版社或者作家）
+G6,8,MAIN,PASSIVE,BIAS-HIGH,DEM-,被@passive,协会@region1,废除资格@region2,的@de1,,法庭  @NP1,的@de2,律师@NP2,有两个孩子@end,谁被@passive协会废除从业资格了？（A.法庭 B.律师 C.法庭或者律师）
+G3,6,FILL,ACTIVE,POSS-REL,DEM-,,写好了@region1,出版社@region2,的@de1,,人物传记@NP1,的@de2,作家@NP2,三十岁了。@end,谁写好了人物传记？（A.出版社 B.作家 C.出版社或者作家）
+G1,6,MAIN,ACTIVE,BIAS-HIGH,DEM-,,亲吻@region1,婴儿@region2,的@de1,,诊所@NP1,的@de2,医生@NP2,离开了。@end,谁亲吻了婴儿？（A. 诊所 B. 医生 C.诊所或者医生 ）
+G12,16,MAIN,PASSIVE,BIAS-LOW,DEM-,被@passive,法院@region1,传唤@region2,的@de1,,明星@NP1,的@de2,电视台@NP2,播出了新闻。@end,谁被@passive法院传唤？（A.电视台 B.明星 C.电视台或者明星）
+G12,10,MAIN,ACTIVE,BIAS-LOW,DEM+,,嫁给了@region1,老板@region2,的@de1,那个@dem,明星@NP1,的@de2,电视台@NP2,播出了新闻。@end,谁嫁给了老板？（A.电视台 B.明星 C.电视台或者明星）
+G6,14,FILL,ACTIVE,POSS-REL,DEM-,,绊倒了@region1,法庭  @region2,的@de1,,律师@NP1,的@de2,证人@NP2,有两个孩子@end,谁绊倒了律师？（A.法庭 B.证人 C.法庭或者证人）
+G7,14,MAIN,ACTIVE,BIAS-LOW,DEM-,,娶了@region1,客户@region2,的@de1,,总裁@NP1,的@de2,公司@NP2,做服装生意。@end,谁娶了客户？（A.公司 B.总裁 C.公司或者总裁）
+G4,6,FILL,ACTIVE,POSS-REL,DEM-,,训练@region1,健身房@region2,的@de1,,学员@NP1,的@de2,健身教练@NP2,正在吃晚饭。@end,谁训练学员？（A.健身房 B.健身教练 C.健身房或者健身教练）
+G12,6,FILL,ACTIVE,POSS-REL,DEM-,,嫁给了@region1,电视台@region2,的@de1,,老板@NP1,的@de2,明星@NP2,没读过大学。@end,谁嫁给了老板？（A.电视台 B.明星 C.电视台或者明星）
+G15,1,MAIN,ACTIVE,EQUI,DEM+,,有很多@region1,听众@region2,的@de1,那个@dem,电台@NP1,的@de2,主播@NP2,失去了姐姐。@end,谁有很多听众？（A.电台B.主播 C.电台或者主播）
+G11,14,MAIN,ACTIVE,BIAS-LOW,DEM-,,离开了@region1,领导@region2,的@de1,,演员@NP1,的@de2,艺术团@NP2,明天演出@end,谁离开了领导？（A.艺术团 B.演员 C.艺术团或者演员）
+G12,8,MAIN,PASSIVE,BIAS-HIGH,DEM-,被@passive,法院@region1,传唤@region2,的@de1,,电视台@NP1,的@de2,明星@NP2,没读过大学。@end,谁被@passive法院传唤？（A.电视台 B.明星 C.电视台或者明星）
+G16,2,MAIN,ACTIVE,BIAS-HIGH,DEM+,,看见了@region1,顾客@region2,的@de1,那个@dem,航空公司@NP1,的@de2,飞行员@NP2,是加拿大人@end,谁看见了顾客？（A.航空公司 B.飞行员 C.航空公司或者飞行员）
+G8,14,FILL,ACTIVE,POSS-REL,DEM-,,打伤@region1,保险公司@region2,的@de1,,推销员@NP1,的@de2,邻居@NP2,喜欢打保龄球。@end,谁打伤了推销员？（A.保险公司 B.邻居 C.保险公司或者邻居）
+G11,6,FILL,ACTIVE,POSS-REL,DEM-,,谋杀了@region1,艺术团@region2,的@de1,,领导@NP1,的@de2,演员@NP2,刚大学毕业@end,谁谋杀了领导？（A.艺术团 B.演员 C.艺术团或者演员）
+G9,5,FILL,ACTIVE,POSS-REL,DEM-,,雇佣@region1,事务所@region2,的@de1,,保姆@NP1,的@de2,会计@NP2,没有证书。@end,谁雇佣了保姆？（A.事务所 B.会计 C.事务所或者会计）
+G10,8,MAIN,PASSIVE,BIAS-HIGH,DEM-,被@passive,警察@region1,打死@region2,的@de1,,大使馆@NP1,的@de2,员工@NP2,没有结婚。@end,谁被@passive警察打死了？（A.大使馆 B.员工 C.大使馆或者员工）
+G16,3,MAIN,PASSIVE,EQUI,DEM+,被@passive,乘客@region1,选择@region2,的@de1,那个@dem,航空公司@NP1,的@de2,飞行员@NP2,是加拿大人@end,谁被@passive乘客选择了？（A.航空公司 B.飞行员 C.航空公司或者飞行员）
+G11,4,MAIN,PASSIVE,BIAS-HIGH,DEM+,被@passive,群众@region1,吐口水@region2,的@de1,那个@dem,艺术团@NP1,的@de2,演员@NP2,刚大学毕业@end,谁被@passive群众吐口水？（A.艺术团 B.演员 C.艺术团或者演员）
+G13,7,MAIN,PASSIVE,EQUI,DEM-,被@passive,学校@region1,奖励@region2,的@de1,,研究所@NP1,的@de2,学生@NP2,住在学校。@end,谁被@passive学校奖励了？（A.研究所 B.学生 C.研究所或者学生）
+G16,6,FILL,ACTIVE,POSS-REL,DEM-,,使唤@region1,航空公司@region2,的@de1,,顾客@NP1,的@de2,飞行员@NP2,是加拿大人@end,谁使唤了顾客？（A.航空公司 B.飞行员 C.航空公司或者飞行员）
+G11,15,MAIN,PASSIVE,EQUI,DEM-,被@passive,群众@region1,讨厌@region2,的@de1,,演员@NP1,的@de2,艺术团@NP2,明天演出@end,谁被@passive群众讨厌？（A.艺术团 B.演员 C.艺术团或者演员）
+G16,10,MAIN,ACTIVE,BIAS-LOW,DEM+,,看见了@region1,顾客@region2,的@de1,那个@dem,飞行员@NP1,的@de2,航空公司@NP2,安全飞行了15年。@end,谁看见了顾客？（A.航空公司 B.飞行员 C.航空公司或者飞行员）
+G8,2,MAIN,ACTIVE,BIAS-HIGH,DEM+,,打伤@region1,邻居@region2,的@de1,那个@dem,保险公司@NP1,的@de2,推销员@NP2,喜欢打保龄球。@end,谁打伤了邻居？（A.保险公司 B.推销员 C.保险公司或者推销员）
+G9,6,MAIN,ACTIVE,BIAS-HIGH,DEM-,,撞死@region1,保姆@region2,的@de1,,事务所@NP1,的@de2,会计@NP2,没有证书。@end,谁撞死了保姆？（A.事务所 B.会计 C.事务所或者会计）
+G2,5,MAIN,ACTIVE,EQUI,DEM-,,奖励了@region1,学生@region2,的@de1,,学校@NP1,的@de2,老师@NP2,在纽约。@end,谁奖励了学生？（A. 学校 B. 老师 C.学校或者老师 ）
+G2,10,MAIN,ACTIVE,BIAS-LOW,DEM+,,拥抱了@region1,学生@region2,的@de1,那个@dem,老师@NP1,的@de2,学校@NP2,正在放暑假。@end,谁拥抱了学生？（A. 学校 B. 老师 C.学校或者老师 ）
+G1,14,FILL,ACTIVE,POSS-REL,DEM-,,亲吻@region1,诊所@region2,的@de1,,医生@NP1,的@de2,婴儿@NP2,离开了。@end,谁亲吻了医生？（A. 诊所 B. 婴儿 C.诊所或者婴儿 ）
+G10,5,MAIN,ACTIVE,EQUI,DEM-,,赶走@region1,公民@region2,的@de1,,大使馆@NP1,的@de2,员工@NP2,没有结婚。@end,谁赶走了公民？（A.大使馆 B.员工 C.大使馆或者员工）
+G11,1,MAIN,ACTIVE,EQUI,DEM+,,贿赂@region1,领导@region2,的@de1,那个@dem,艺术团@NP1,的@de2,演员@NP2,刚大学毕业@end,谁贿赂了领导？（A.艺术团 B.演员 C.艺术团或者演员）
+G14,6,FILL,ACTIVE,POSS-REL,DEM-,,撕破了@region1,美术馆@region2,的@de1,,画作@NP1,的@de2,投资人@NP2,住在芝加哥。@end,谁撕破了画作（A.美术馆 B.投资人 C.美术馆或者投资人）
+G4,2,MAIN,ACTIVE,BIAS-HIGH,DEM+,,训练@region1,学员@region2,的@de1,那个@dem,健身房@NP1,的@de2,健身教练@NP2,正在吃晚饭。@end,谁训练学员？（A.健身房 B.健身教练 C.健身房或者健身教练）
+G2,2,MAIN,ACTIVE,BIAS-HIGH,DEM+,,拥抱了@region1,学生@region2,的@de1,那个@dem,学校@NP1,的@de2,老师@NP2,在纽约。@end,谁拥抱了学生？（A. 学校 B. 老师 C.学校或者老师 ）
+G4,14,FILL,ACTIVE,POSS-REL,DEM-,,喜欢@region1,健身房@region2,的@de1,,健身教练@NP1,的@de2,学员@NP2,正在吃晚饭。@end,谁喜欢健身教练？（A.健身房 B.学员 C.健身房或者学员）
+G8,16,MAIN,PASSIVE,BIAS-LOW,DEM-,被@passive,医院@region1,抢救@region2,的@de1,,推销员@NP1,的@de2,保险公司@NP2,有20年历史。@end,谁被@passive医院抢救？（A.保险公司 B.推销员 C.保险公司或者推销员）
+G14,14,FILL,ACTIVE,POSS-REL,DEM-,,吸引了@region1,美术馆@region2,的@de1,,投资人@NP1,的@de2,画作@NP2,是一名大学生画的。@end,谁吸引了投资人（A.美术馆 B.画作 C.美术馆或者画作）
+G8,11,MAIN,PASSIVE,EQUI,DEM+,被@passive,医院@region1,拒绝@region2,的@de1,那个@dem,推销员@NP1,的@de2,保险公司@NP2,有20年历史。@end,谁被@passive医院拒绝了？（A.保险公司 B.推销员 C.保险公司或者推销员）
+G10,2,MAIN,ACTIVE,BIAS-HIGH,DEM+,,责骂@region1,公民@region2,的@de1,那个@dem,大使馆@NP1,的@de2,员工@NP2,没有结婚。@end,谁责骂了公民？（A.大使馆 B.员工 C.大使馆或者员工）
+G8,8,MAIN,PASSIVE,BIAS-HIGH,DEM-,被@passive,医院@region1,抢救@region2,的@de1,,保险公司@NP1,的@de2,推销员@NP2,喜欢打保龄球。@end,谁被@passive医院抢救？（A.保险公司 B.推销员 C.保险公司或者推销员）
+G9,9,MAIN,ACTIVE,EQUI,DEM+,,雇佣@region1,保姆@region2,的@de1,那个@dem,会计@NP1,的@de2,事务所@NP2,在外州。@end,谁雇佣了保姆？（A.事务所 B.会计 C.事务所或者会计）
+G9,6,FILL,ACTIVE,POSS-REL,DEM-,,撞死@region1,事务所@region2,的@de1,,保姆@NP1,的@de2,会计@NP2,没有证书。@end,谁撞死了保姆？（A.事务所 B.会计 C.事务所或者会计）
+G6,5,FILL,ACTIVE,POSS-REL,DEM-,,遇到@region1,法庭  @region2,的@de1,,证人@NP1,的@de2,律师@NP2,有两个孩子@end,谁遇到了证人？（A.法庭 B.律师 C.法庭或者律师）
+G4,11,MAIN,PASSIVE,EQUI,DEM+,被@passive,顾客@region1,投诉@region2,的@de1,那个@dem,健身教练@NP1,的@de2,健身房@NP2,每天都开。@end,谁被@passive顾客投诉了？（A.健身房 B.健身教练 C.健身房或者健身教练）
+G15,14,FILL,ACTIVE,POSS-REL,DEM-,,认识@region1,电台@region2,的@de1,,主播@NP1,的@de2,听众@NP2,失去了姐姐。@end,谁认识主播？（A.电台B.听众 C.电台或者听众）
+G3,1,MAIN,ACTIVE,EQUI,DEM+,,偏爱@region1,人物传记@region2,的@de1,那个@dem,出版社@NP1,的@de2,作家@NP2,三十岁了。@end,谁偏爱人物传记？（A.出版社 B.作家 C.出版社或者作家）
+G2,14,FILL,ACTIVE,POSS-REL,DEM-,,拥抱了@region1,学校@region2,的@de1,,老师@NP1,的@de2,学生@NP2,正在放暑假。@end,谁拥抱了老师？（A. 学校 B. 学生 C.学校或者学生 ）
+G15,15,MAIN,PASSIVE,EQUI,DEM-,被@passive,经理@region1,批评@region2,的@de1,,主播@NP1,的@de2,电台@NP2,早上播流行音乐。@end,谁被@passive经理批评？（A.电台B.主播 C.电台或者主播）
+G9,7,MAIN,PASSIVE,EQUI,DEM-,被@passive,学生@region1,告发@region2,的@de1,,事务所@NP1,的@de2,会计@NP2,没有证书。@end,谁被@passive学生告发？（A.事务所 B.会计 C.事务所或者会计）

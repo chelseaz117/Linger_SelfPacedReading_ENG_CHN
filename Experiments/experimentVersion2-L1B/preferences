@@ -1,0 +1,24 @@
+set LangEncoding utf-8
+set TextFont "-family {GB18030 Bitmap} -size -24 -weight bold"
+set MaskSpaces 1
+set BreakInterval 49
+set Experiment centerSelfPacedReading
+#set StopMakingSenseAbortOnNo 0
+set CenterLeftAligned  1
+set CenterLeftShift  50
+# The size of a fixation crosshair:
+set CrossSize    20
+# The amount the crosshair is shifted up from center:
+set CrossUpShift 0
+# The amount the crosshair is shifted left from center:
+set CrossLeftShift 0
+# The delay (in msec) before presenting each item:
+set PreDelay     1000
+# The delay before the first word in auto-paced reading (and centerSelfPaced):
+set AutoPacedInitDelay 1000
+set RandomOrder 0
+set GoKey space
+
+
+
+

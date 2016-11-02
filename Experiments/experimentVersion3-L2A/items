@@ -1,0 +1,432 @@
+# inter1 1 a										
+		亲吻@region1	婴儿@region2	的@de1	那个@dem	诊所@NP1	的@de2	医生@NP2	离开了。@end	
+    * 谁亲吻了婴儿？（A.诊所B.医生C.诊所或者医生）
+# inter1 2 a										
+  	被@passive	病人@region1	投诉@region2	的@de1	那个@dem	诊所@NP1	的@de2	医生@NP2	离开了。@end	
+    * 谁被病人投诉了？（A.诊所B.医生C.诊所或者医生）
+# inter1 3 a										
+  		拥抱了@region1	学校@region2	的@de1		老师@NP1	的@de2	学生@NP2	正在放暑假。@end	
+      * 谁拥抱了老师？（A.学校B.学生C.学校或者学生）
+# inter1 4 a										
+  		训练@region1	学员@region2	的@de1		健身教练@NP1	的@de2	健身房@NP2	每天都开。@end	
+      * 谁训练学员？（A.健身房B.健身教练C.健身房或者健身教练）
+# inter1 5 a										
+  	被@passive	读者@region1	烫伤@region2	的@de1		作家@NP1	的@de2	出版社@NP2	成立100年了。@end	
+    * 谁被读者烫伤？（A.出版社B.作家C.出版社或者作家）
+# inter1 6 a										
+  	被@passive	乘客@region1	刺伤@region2	的@de1	那个@dem	航空公司@NP1	的@de2	飞行员@NP2	是加拿大人@end	
+    * 谁被乘客刺伤了？（A.航空公司B.飞行员C.航空公司或者飞行员）
+# inter1 7 a										
+  	被@passive	政府@region1	关押@region2	的@de1		公司@NP1	的@de2	总裁@NP2	离婚了。@end	
+    * 谁被政府关押？（A.公司B.总裁C.公司或者总裁）
+# inter1 8 a										
+  		谋杀了@region1	艺术团@region2	的@de1		领导@NP1	的@de2	演员@NP2	刚大学毕业@end	
+      * 谁谋杀了领导？（A.艺术团B.演员C.艺术团或者演员）
+# inter1 9 a										
+  	被@passive	学校@region1	奖励@region2	的@de1	那个@dem	学生@NP1	的@de2	研究所@NP2	有三层楼。@end	
+    * 谁被学校奖励了？（A.研究所B.学生C.研究所或者学生）
+# inter1 10 a										
+  		砸伤@region1	研究所@region2	的@de1		老师@NP1	的@de2	学生@NP2	住在学校。@end	
+      * 谁砸伤了老师？（A.研究所B.学生C.研究所或者学生）
+# inter1 11 a										
+  		奖励了@region1	学生@region2	的@de1	那个@dem	学校@NP1	的@de2	老师@NP2	在纽约。@end	
+      * 谁奖励了学生？（A.学校B.老师C.学校或者老师）
+# inter1 12 a										
+  		责骂@region1	大使馆@region2	的@de1		员工@NP1	的@de2	公民@NP2	今天不上班。@end	
+      * 谁责骂了员工？（A.大使馆B.公民C.大使馆或者公民）
+# inter1 13 a										
+  	被@passive	法院@region1	传唤@region2	的@de1	那个@dem	电视台@NP1	的@de2	明星@NP2	没读过大学。@end	
+    * 谁被法院传唤？（A.电视台B.明星C.电视台或者明星）
+# inter1 14 a										
+  	被@passive	法院@region1	封杀@region2	的@de1		电视台@NP1	的@de2	明星@NP2	没读过大学。@end	
+    * 谁被法院封杀？（A.电视台B.明星C.电视台或者明星）
+# inter1 15 a										
+  	被@passive	顾客@region1	投诉@region2	的@de1		健身房@NP1	的@de2	健身教练@NP2	正在吃晚饭。@end	
+    * 谁被顾客投诉了？（A.健身房B.健身教练C.健身房或者健身教练）
+# inter1 16 a										
+  		认识@region1	听众@region2	的@de1	那个@dem	电台@NP1	的@de2	主播@NP2	失去了姐姐。@end	
+      * 谁认识听众？（A.电台B.主播C.电台或者主播）
+# inter1 17 a										
+  		使唤@region1	航空公司@region2	的@de1		飞行员@NP1	的@de2	顾客@NP2	是加拿大人@end	
+      * 谁使唤了飞行员？（A.航空公司B.顾客C.航空公司或者顾客）
+# inter1 18 a										
+  		遇到@region1	法庭  @region2	的@de1		证人@NP1	的@de2	律师@NP2	有两个孩子@end	
+      * 谁遇到了证人？（A.法庭B.律师C.法庭或者律师）
+# inter1 19 a										
+  	被@passive	董事会@region1	开除@region2	的@de1	那个@dem	投资人@NP1	的@de2	美术馆@NP2	今天关门。@end	
+    * 谁董事会开除了？（A.美术馆B.投资人C.美术馆或者投资人）
+# inter1 20 a										
+  	被@passive	政府@region1	关押@region2	的@de1		总裁@NP1	的@de2	公司@NP2	做服装生意。@end	
+    * 谁被政府关押？（A.公司B.总裁C.公司或者总裁）
+# inter1 21 a										
+  	被@passive	经理@region1	解雇@region2	的@de1		电台@NP1	的@de2	主播@NP2	失去了姐姐。@end	
+    * 谁被经理解雇了？（A.电台B.主播C.电台或者主播）
+# inter1 22 a										
+  		描写@region1	出版社@region2	的@de1		作家@NP1	的@de2	人物传记@NP2	卖得很好@end	
+      * 谁描写作家？（A.出版社B.人物传记C.出版社或者人物传记）
+# inter1 23 a										
+  		撕破了@region1	画作@region2	的@de1		投资人@NP1	的@de2	美术馆@NP2	今天关门。@end	
+      * 谁撕破了画作（A.美术馆B.投资人C.美术馆或者投资人）
+# inter1 24 a										
+  		偏爱@region1	人物传记@region2	的@de1		出版社@NP1	的@de2	作家@NP2	三十岁了。@end	
+      * 谁偏爱人物传记？（A.出版社B.作家C.出版社或者作家）
+# inter1 25 a										
+  		拥抱了@region1	学校@region2	的@de1		学生@NP1	的@de2	老师@NP2	在纽约。@end	
+      * 谁拥抱了了学生？（A.学校B.老师C.学校或者老师）
+# inter1 26 a										
+  		打伤@region1	邻居@region2	的@de1		保险公司@NP1	的@de2	推销员@NP2	喜欢打保龄球。@end	
+      * 谁打伤了邻居？（A.保险公司B.推销员C.保险公司或者推销员）
+# inter1 27 a										
+  		写好了@region1	人物传记@region2	的@de1	那个@dem	出版社@NP1	的@de2	作家@NP2	三十岁了。@end	
+      * 谁写好了人物传记？（A.出版社B.作家C.出版社或者作家）
+# inter1 28 a										
+  		绊倒了@region1	法庭  @region2	的@de1		律师@NP1	的@de2	证人@NP2	有两个孩子@end	
+      * 谁绊倒了律师？（A.法庭B.证人C.法庭或者证人）
+# inter1 29 a										
+  	被@passive	军队@region1	保护@region2	的@de1	那个@dem	总统@NP1	的@de2	国家@NP2	经济很差。@end	
+    * 谁被军队保护？（A.国家B.总统C.国家或者总统）
+# inter1 30 a										
+  		迫害@region1	国家@region2	的@de1		人民@NP1	的@de2	总统@NP2	60岁了。@end	
+      * 谁迫害人民？（A.国家B.总统C.国家或者总统）
+# inter1 31 a										
+  	被@passive	经理@region1	解雇@region2	的@de1		主播@NP1	的@de2	电台@NP2	早上播流行音乐。@end	
+    * 谁被经理解雇了？（A.电台B.主播C.电台或者主播）
+# inter1 32 a										
+  		偷走@region1	美术馆@region2	的@de1		画作@NP1	的@de2	投资人@NP2	住在芝加哥。@end	
+      * 谁偷走了画作（A.美术馆B.投资人C.美术馆或者投资人）
+# inter1 33 a										
+  		体罚@region1	学校@region2	的@de1		学生@NP1	的@de2	老师@NP2	在纽约。@end	
+      * 谁体罚了学生？（A.学校B.老师C.学校或者老师）
+# inter1 34 a										
+  		喜欢@region1	健身房@region2	的@de1		健身教练@NP1	的@de2	学员@NP2	正在吃晚饭。@end	
+      * 谁喜欢健身教练？（A.健身房B.学员C.健身房或者学员）
+# inter1 35 a										
+  		讨厌@region1	证人@region2	的@de1		律师@NP1	的@de2	法庭  @NP2	规则很多。@end	
+      * 谁讨厌证人？（A.法庭B.律师C.法庭或者律师）
+# inter1 36 a										
+  		娶了@region1	航空公司@region2	的@de1		顾客@NP1	的@de2	飞行员@NP2	是加拿大人@end	
+      * 谁娶了顾客？（A.航空公司B.飞行员C.航空公司或者飞行员）
+# inter1 37 a										
+  	被@passive	法院@region1	传唤@region2	的@de1	那个@dem	明星@NP1	的@de2	电视台@NP2	播出了新闻。@end	
+    * 谁被法院传唤？（A.电视台B.明星C.电视台或者明星）
+# inter1 38 a										
+  	被@passive	学生@region1	告发@region2	的@de1	那个@dem	事务所@NP1	的@de2	会计@NP2	没有证书。@end	
+    * 谁被学生告发？（A.事务所B.会计C.事务所或者会计）
+# inter1 39 a										
+  		购买@region1	出版社@region2	的@de1		人物传记@NP1	的@de2	作家@NP2	三十岁了。@end	
+      * 谁购买了人物传记？（A.出版社B.作家C.出版社或者作家）
+# inter1 40 a										
+  		招收@region1	健身房@region2	的@de1		学员@NP1	的@de2	健身教练@NP2	正在吃晚饭。@end	
+      * 谁招收学员？（A.健身房B.健身教练C.健身房或者健身教练）
+# inter1 41 a										
+  		拥抱@region1	人民@region2	的@de1	那个@dem	国家@NP1	的@de2	总统@NP2	60岁了。@end	
+      * 谁拥抱了人民？（A.国家B.总统C.国家或者总统）
+# inter1 42 a										
+  		娶了@region1	公司@region2	的@de1		客户@NP1	的@de2	总裁@NP2	离婚了。@end	
+      * 谁娶了客户？（A.公司B.总裁C.公司或者总裁）
+# inter1 43 a										
+  	被@passive	协会@region1	废除资格@region2	的@de1	那个@dem	律师@NP1	的@de2	法庭  @NP2	规则很多。@end	
+    * 谁被协会废除从业资格了？（A.法庭B.律师C.法庭或者律师）
+# inter1 44 a										
+  		有很多@region1	听众@region2	的@de1		电台@NP1	的@de2	主播@NP2	失去了姐姐。@end	
+      * 谁有很多听众？（A.电台B.主播C.电台或者主播）
+# inter1 45 a										
+  		责骂@region1	大使馆@region2	的@de1		公民@NP1	的@de2	员工@NP2	没有结婚。@end	
+      * 谁责骂了公民？（A.大使馆B.员工C.大使馆或者员工）
+# inter1 46 a										
+  	被@passive	群众@region1	吐口水@region2	的@de1		演员@NP1	的@de2	艺术团@NP2	明天演出@end	
+    * 谁被群众吐口水？（A.艺术团B.演员C.艺术团或者演员）
+# inter1 47 a										
+  		撕破了@region1	画作@region2	的@de1		美术馆@NP1	的@de2	投资人@NP2	住在芝加哥。@end	
+      * 谁撕破了画作（A.美术馆B.投资人C.美术馆或者投资人）
+# inter1 48 a										
+  	被@passive	学生@region1	告发@region2	的@de1	那个@dem	会计@NP1	的@de2	事务所@NP2	在外州。@end	
+    * 谁被学生告发？（A.事务所B.会计C.事务所或者会计）
+# inter1 49 a										
+  		失去了@region1	老板@region2	的@de1	那个@dem	明星@NP1	的@de2	电视台@NP2	播出了新闻。@end	
+      * 谁失去了老板？（A.电视台B.明星C.电视台或者明星）
+# inter1 50 a										
+  	被@passive	协会@region1	批准@region2	的@de1		律师@NP1	的@de2	法庭  @NP2	规则很多。@end	
+    * 谁被协会批准了？（A.法庭B.律师C.法庭或者律师）
+# inter1 51 a										
+  	被@passive	乘客@region1	选择@region2	的@de1		航空公司@NP1	的@de2	飞行员@NP2	是加拿大人@end	
+    * 谁被乘客选择了？（A.航空公司B.飞行员C.航空公司或者飞行员）
+# inter1 52 a										
+  		娶了@region1	公司@region2	的@de1		总裁@NP1	的@de2	客户@NP2	做服装生意。@end	
+      * 谁娶了总裁？（A.公司B.客户C.公司或者客户）
+# inter1 53 a										
+  		吸引了@region1	客户@region2	的@de1		公司@NP1	的@de2	总裁@NP2	离婚了。@end	
+      * 谁吸引了客户？（A.公司B.总裁C.公司或者总裁）
+# inter1 54 a										
+  	被@passive	家长们@region1	批评@region2	的@de1		老师@NP1	的@de2	学校@NP2	正在放暑假。@end	
+    * 谁被家长们批评了？（A.学校B.老师C.学校或者老师）
+# inter1 55 a										
+  	被@passive	家长们@region1	殴打@region2	的@de1	那个@dem	老师@NP1	的@de2	学校@NP2	正在放暑假。@end	
+    * 谁被家长们殴打了？（A.学校B.老师C.学校或者老师）
+# inter1 56 a										
+  		赶走@region1	大使馆@region2	的@de1		公民@NP1	的@de2	员工@NP2	没有结婚。@end	
+      * 谁赶走了公民？（A.大使馆B.员工C.大使馆或者员工）
+# inter1 57 a										
+  	被@passive	医院@region1	抢救@region2	的@de1	那个@dem	推销员@NP1	的@de2	保险公司@NP2	有20年历史。@end	
+    * 谁被医院抢救？（A.保险公司B.推销员C.保险公司或者推销员）
+# inter1 58 a										
+  	被@passive	家长们@region1	殴打@region2	的@de1	那个@dem	学校@NP1	的@de2	老师@NP2	在纽约。@end	
+    * 谁被家长们殴打了？（A.学校B.老师C.学校或者老师）
+# inter1 59 a										
+  		看见了@region1	顾客@region2	的@de1		飞行员@NP1	的@de2	航空公司@NP2	安全飞行了15年。@end	
+      * 谁看见了顾客？（A.航空公司B.飞行员C.航空公司或者飞行员）
+# inter1 60 a										
+  		拥抱@region1	国家@region2	的@de1		人民@NP1	的@de2	总统@NP2	60岁了。@end	
+      * 谁拥抱了人民？（A.国家B.总统C.国家或者总统）
+# inter1 61 a										
+  		囚禁@region1	电视台@region2	的@de1		老板@NP1	的@de2	明星@NP2	没读过大学。@end	
+      * 谁囚禁了老板？（A.电视台B.明星C.电视台或者明星）
+# inter1 62 a										
+  		贿赂@region1	领导@region2	的@de1		艺术团@NP1	的@de2	演员@NP2	刚大学毕业@end	
+      * 谁贿赂了领导？（A.艺术团B.演员C.艺术团或者演员）
+# inter1 63 a										
+  		拥抱@region1	国家@region2	的@de1		总统@NP1	的@de2	人民@NP2	60岁了。@end	
+      * 谁拥抱了总统？（A.国家B.人民C.国家或者人民）
+# inter1 64 a										
+  		需要@region1	证人@region2	的@de1	那个@dem	法庭  @NP1	的@de2	律师@NP2	有两个孩子@end	
+      * 谁需要证人？（A.法庭B.律师C.法庭或者律师）
+# inter1 65 a										
+  		招收@region1	学员@region2	的@de1	那个@dem	健身教练@NP1	的@de2	健身房@NP2	每天都开。@end	
+      * 谁招收学员？（A.健身房B.健身教练C.健身房或者健身教练）
+# inter1 66 a										
+  		经常骚扰@region1	邻居@region2	的@de1	那个@dem	推销员@NP1	的@de2	保险公司@NP2	有20年历史。@end	
+      * 谁经常骚扰邻居？（A.保险公司B.推销员C.保险公司或者推销员）
+# inter1 67 a										
+  		拥抱了@region1	学生@region2	的@de1		学校@NP1	的@de2	老师@NP2	在纽约。@end	
+      * 谁拥抱了学生？（A.学校B.老师C.学校或者老师）
+# inter1 68 a										
+  		绊倒了@region1	法庭  @region2	的@de1		证人@NP1	的@de2	律师@NP2	有两个孩子@end	
+      * 谁绊倒了证人？（A.法庭B.律师C.法庭或者律师）
+# inter1 69 a										
+  		写好了@region1	出版社@region2	的@de1		人物传记@NP1	的@de2	作家@NP2	三十岁了。@end	
+      * 谁写好了人物传记？（A.出版社B.作家C.出版社或者作家）
+# inter1 70 a										
+  	被@passive	学校@region1	开除@region2	的@de1		研究所@NP1	的@de2	学生@NP2	住在学校。@end	
+    * 谁被学校开除了？（A.研究所B.学生C.研究所或者学生）
+# inter1 71 a										
+  	被@passive	顾客@region1	打伤@region2	的@de1	那个@dem	健身教练@NP1	的@de2	健身房@NP2	每天都开。@end	
+    * 谁被顾客打伤了？（A.健身房B.健身教练C.健身房或者健身教练）
+# inter1 72 a										
+  		打伤@region1	邻居@region2	的@de1		推销员@NP1	的@de2	保险公司@NP2	有20年历史。@end	
+      * 谁打伤了邻居？（A.保险公司B.推销员C.保险公司或者推销员）
+# inter1 73 a										
+  		离开了@region1	领导@region2	的@de1	那个@dem	艺术团@NP1	的@de2	演员@NP2	刚大学毕业@end	
+      * 谁离开了领导？（A.艺术团B.演员C.艺术团或者演员）
+# inter1 74 a										
+  	被@passive	学生@region1	误伤@region2	的@de1		会计@NP1	的@de2	事务所@NP2	在外州。@end	
+    * 谁被学生误伤？（A.事务所B.会计C.事务所或者会计）
+# inter1 75 a										
+  		贿赂@region1	领导@region2	的@de1		演员@NP1	的@de2	艺术团@NP2	明天演出@end	
+      * 谁贿赂了领导？（A.艺术团B.演员C.艺术团或者演员）
+# inter1 76 a										
+  		激怒了@region1	老师@region2	的@de1	那个@dem	研究所@NP1	的@de2	学生@NP2	住在学校。@end	
+      * 谁激怒了老师？（A.研究所B.学生C.研究所或者学生）
+# inter1 77 a										
+  	被@passive	警察@region1	打死@region2	的@de1	那个@dem	大使馆@NP1	的@de2	员工@NP2	没有结婚。@end	
+    * 谁被警察打死了？（A.大使馆B.员工C.大使馆或者员工）
+# inter1 78 a										
+  		嫁给了@region1	老板@region2	的@de1		明星@NP1	的@de2	电视台@NP2	播出了新闻。@end	
+      * 谁嫁给了老板？（A.电视台B.明星C.电视台或者明星）
+# inter1 79 a										
+  		认识@region1	听众@region2	的@de1	那个@dem	主播@NP1	的@de2	电台@NP2	早上播流行音乐。@end	
+      * 谁认识听众？（A.电台B.主播C.电台或者主播）
+# inter1 80 a										
+  		吸引了@region1	客户@region2	的@de1		总裁@NP1	的@de2	公司@NP2	做服装生意。@end	
+      * 谁吸引了客户？（A.公司B.总裁C.公司或者总裁）
+# inter1 81 a										
+  	被@passive	学生@region1	误伤@region2	的@de1		事务所@NP1	的@de2	会计@NP2	没有证书。@end	
+    * 谁被学生误伤？（A.事务所B.会计C.事务所或者会计）
+# inter1 82 a										
+  		嫁给了@region1	电视台@region2	的@de1		明星@NP1	的@de2	老板@NP2	播出了新闻。@end	
+      * 谁嫁给了明星？（A.电视台B.老板C.电视台或者老板）
+# inter1 83 a										
+  		离开了@region1	领导@region2	的@de1	那个@dem	演员@NP1	的@de2	艺术团@NP2	明天演出@end	
+      * 谁离开了领导？（A.艺术团B.演员C.艺术团或者演员）
+# inter1 84 a										
+  		写好了@region1	人物传记@region2	的@de1	那个@dem	作家@NP1	的@de2	出版社@NP2	成立100年了。@end	
+      * 谁写好了人物传记？（A.出版社B.作家C.出版社或者作家）
+# inter1 85 a										
+  		认识@region1	电台@region2	的@de1		主播@NP1	的@de2	听众@NP2	失去了姐姐。@end	
+      * 谁认识主播？（A.电台B.听众C.电台或者听众）
+# inter1 86 a										
+  		讨厌@region1	证人@region2	的@de1		法庭  @NP1	的@de2	律师@NP2	有两个孩子@end	
+      * 谁讨厌证人？（A.法庭B.律师C.法庭或者律师）
+# inter1 87 a										
+  		娶了@region1	客户@region2	的@de1	那个@dem	公司@NP1	的@de2	总裁@NP2	离婚了。@end	
+      * 谁娶了客户？（A.公司B.总裁C.公司或者总裁）
+# inter1 88 a										
+  		嫁给了@region1	电视台@region2	的@de1		老板@NP1	的@de2	明星@NP2	没读过大学。@end	
+      * 谁嫁给了老板？（A.电视台B.明星C.电视台或者明星）
+# inter1 89 a										
+  		有很多@region1	听众@region2	的@de1		主播@NP1	的@de2	电台@NP2	早上播流行音乐。@end	
+      * 谁有很多听众？（A.电台B.主播C.电台或者主播）
+# inter1 90 a										
+  		激怒了@region1	研究所@region2	的@de1		学生@NP1	的@de2	老师@NP2	住在学校。@end	
+      * 谁激怒了学生？（A.研究所B.老师C.研究所或者老师）
+# inter1 91 a										
+  		撞死@region1	事务所@region2	的@de1		会计@NP1	的@de2	保姆@NP2	在外州。@end	
+      * 谁撞死了会计？（A.事务所B.保姆C.事务所或者保姆）
+# inter1 92 a										
+  		谋杀了@region1	艺术团@region2	的@de1		演员@NP1	的@de2	领导@NP2	刚大学毕业@end	
+      * 谁谋杀了演员？（A.艺术团B.领导C.艺术团或者领导）
+# inter1 93 a										
+  		亲吻@region1	诊所@region2	的@de1		婴儿@NP1	的@de2	医生@NP2	离开了。@end	
+      * 谁亲吻了婴儿？（A.诊所B.医生C.诊所或者医生）
+# inter1 94 a										
+  	被@passive	军队@region1	保护@region2	的@de1	那个@dem	国家@NP1	的@de2	总统@NP2	60岁了。@end	
+    * 谁被军队保护？（A.国家B.总统C.国家或者总统）
+# inter1 95 a										
+  		嫁给了@region1	老板@region2	的@de1		电视台@NP1	的@de2	明星@NP2	没读过大学。@end	
+      * 谁嫁给了老板？（A.电视台B.明星C.电视台或者明星）
+# inter1 96 a										
+  		治疗@region1	诊所@region2	的@de1		婴儿@NP1	的@de2	医生@NP2	离开了。@end	
+      * 谁治疗了婴儿?（A.诊所B.医生C.诊所或者医生）
+# inter1 97 a										
+  		购买了@region1	画作@region2	的@de1	那个@dem	美术馆@NP1	的@de2	投资人@NP2	住在芝加哥。@end	
+      * 谁购买了画作（A.美术馆B.投资人C.美术馆或者投资人）
+# inter1 98 a										
+  	被@passive	警察@region1	打死@region2	的@de1	那个@dem	员工@NP1	的@de2	大使馆@NP2	今天不上班。@end	
+    * 谁被警察打死了？（A.大使馆B.员工C.大使馆或者员工）
+# inter1 99 a										
+  	被@passive	病人@region1	投诉@region2	的@de1	那个@dem	医生@NP1	的@de2	诊所@NP2	关门了。@end	
+    * 谁被病人投诉了？（A.诊所B.医生C.诊所或者医生）
+# inter1 100 a										
+  	被@passive	群众@region1	吐口水@region2	的@de1		艺术团@NP1	的@de2	演员@NP2	刚大学毕业@end	
+    * 谁被群众吐口水？（A.艺术团B.演员C.艺术团或者演员）
+# inter1 101 a										
+  		责骂@region1	公民@region2	的@de1		员工@NP1	的@de2	大使馆@NP2	今天不上班。@end	
+      * 谁责骂了公民？（A.大使馆B.员工C.大使馆或者员工）
+# inter1 102 a										
+  	被@passive	协会@region1	废除从业资格@region2	的@de1	那个@dem	法庭  @NP1	的@de2	律师@NP2	有两个孩子@end	
+    * 谁被协会废除从业资格了？（A.法庭B.律师C.法庭或者律师）
+# inter1 103 a										
+  		激怒了@region1	老师@region2	的@de1	那个@dem	学生@NP1	的@de2	研究所@NP2	有三层楼。@end	
+      * 谁激怒了老师？（A.研究所B.学生C.研究所或者学生）
+# inter1 104 a										
+  		灌醉了@region1	艺术团@region2	的@de1		领导@NP1	的@de2	演员@NP2	刚大学毕业@end	
+      * 谁灌醉了领导？（A.艺术团B.演员C.艺术团或者演员）
+# inter1 105 a										
+  		使唤@region1	航空公司@region2	的@de1		顾客@NP1	的@de2	飞行员@NP2	是加拿大人@end	
+      * 谁使唤了顾客？（A.航空公司B.飞行员C.航空公司或者飞行员）
+# inter1 106 a										
+  	被@passive	顾客@region1	打伤@region2	的@de1	那个@dem	健身房@NP1	的@de2	健身教练@NP2	正在吃晚饭。@end	
+    * 谁被顾客打伤了？（A.健身房B.健身教练C.健身房或者健身教练）
+# inter1 107 a										
+  	被@passive	军队@region1	处死@region2	的@de1		国家@NP1	的@de2	总统@NP2	60岁了。@end	
+    * 谁被军队处死？（A.国家B.总统C.国家或者总统）
+# inter1 108 a										
+  	被@passive	学校@region1	开除@region2	的@de1		学生@NP1	的@de2	研究所@NP2	有三层楼。@end	
+    * 谁被学校开除了？（A.研究所B.学生C.研究所或者学生）
+# inter1 109 a										
+  		训练@region1	健身房@region2	的@de1		学员@NP1	的@de2	健身教练@NP2	正在吃晚饭。@end	
+      * 谁训练学员？（A.健身房B.健身教练C.健身房或者健身教练）
+# inter1 110 a										
+  		打伤@region1	保险公司@region2	的@de1		推销员@NP1	的@de2	邻居@NP2	喜欢打保龄球。@end	
+      * 谁打伤了推销员？（A.保险公司B.邻居C.保险公司或者邻居）
+# inter1 111 a										
+  		打伤@region1	保险公司@region2	的@de1		邻居@NP1	的@de2	推销员@NP2	喜欢打保龄球。@end	
+      * 谁打伤了邻居？（A.保险公司B.推销员C.保险公司或者推销员）
+# inter1 112 a										
+  		亲吻@region1	诊所@region2	的@de1		医生@NP1	的@de2	婴儿@NP2	离开了。@end	
+      * 谁亲吻了医生？（A.诊所B.婴儿C.诊所或者婴儿）
+# inter1 113 a										
+  		背着@region1	电台@region2	的@de1		听众@NP1	的@de2	主播@NP2	失去了姐姐。@end	
+      * 谁背着听众？（A.电台B.主播C.电台或者主播）
+# inter1 114 a										
+  		责骂@region1	公民@region2	的@de1		大使馆@NP1	的@de2	员工@NP2	没有结婚。@end	
+      * 谁责骂了公民？（A.大使馆B.员工C.大使馆或者员工）
+# inter1 115 a										
+  		暗杀了@region1	公司@region2	的@de1		客户@NP1	的@de2	总裁@NP2	离婚了。@end	
+      * 谁暗杀了客户？（A.公司B.总裁C.公司或者总裁）
+# inter1 116 a										
+  	被@passive	医院@region1	抢救@region2	的@de1	那个@dem	保险公司@NP1	的@de2	推销员@NP2	喜欢打保龄球。@end	
+    * 谁被医院抢救？（A.保险公司B.推销员C.保险公司或者推销员）
+# inter1 117 a										
+  	被@passive	董事会@region1	批准@region2	的@de1		投资人@NP1	的@de2	美术馆@NP2	今天关门。@end	
+    * 谁被董事会批准了?（A.美术馆B.投资人C.美术馆或者投资人）
+# inter1 118 a										
+  		撞死@region1	保姆@region2	的@de1	那个@dem	会计@NP1	的@de2	事务所@NP2	在外州。@end	
+      * 谁撞死了保姆？（A.事务所B.会计C.事务所或者会计）
+# inter1 119 a										
+  		训练@region1	学员@region2	的@de1		健身房@NP1	的@de2	健身教练@NP2	正在吃晚饭。@end	
+      * 谁训练学员？（A.健身房B.健身教练C.健身房或者健身教练）
+# inter1 120 a										
+  	被@passive	病人@region1	扇耳光@region2	的@de1		医生@NP1	的@de2	诊所@NP2	关门了。@end	
+    * 谁被病人扇了耳光？（A.诊所B.医生C.诊所或者医生）
+# inter1 121 a										
+  		赶走@region1	公民@region2	的@de1	那个@dem	大使馆@NP1	的@de2	员工@NP2	没有结婚。@end	
+      * 谁赶走了公民？（A.大使馆B.员工C.大使馆或者员工）
+# inter1 122 a										
+  	被@passive	乘客@region1	刺伤@region2	的@de1	那个@dem	飞行员@NP1	的@de2	航空公司@NP2	安全飞行了15年。@end	
+    * 谁被乘客刺伤了？（A.航空公司B.飞行员C.航空公司或者飞行员）
+# inter1 123 a										
+  		拥抱了@region1	学生@region2	的@de1		老师@NP1	的@de2	学校@NP2	正在放暑假。@end	
+      * 谁拥抱了学生？（A.学校B.老师C.学校或者老师）
+# inter1 124 a										
+  		娶了@region1	客户@region2	的@de1	那个@dem	总裁@NP1	的@de2	公司@NP2	做服装生意。@end	
+      * 谁娶了客户？（A.公司B.总裁C.公司或者总裁）
+# inter1 125 a										
+  		撞死@region1	事务所@region2	的@de1		保姆@NP1	的@de2	会计@NP2	没有证书。@end	
+      * 谁撞死了保姆？（A.事务所B.会计C.事务所或者会计）
+# inter1 126 a										
+  	被@passive	军队@region1	处死@region2	的@de1		总统@NP1	的@de2	国家@NP2	经济很差。@end	
+    * 谁被军队处死？（A.国家B.总统C.国家或者总统）
+# inter1 127 a										
+  	被@passive	董事会@region1	开除@region2	的@de1	那个@dem	美术馆@NP1	的@de2	投资人@NP2	住在芝加哥。@end	
+    * 谁董事会开除了？（A.美术馆B.投资人C.美术馆或者投资人）
+# inter1 128 a										
+  		方便了@region1	顾客@region2	的@de1	那个@dem	飞行员@NP1	的@de2	航空公司@NP2	安全飞行了15年。@end	
+      * 谁方便了顾客？（A.航空公司B.飞行员C.航空公司或者飞行员）
+# inter1 129 a										
+  		激怒了@region1	研究所@region2	的@de1		老师@NP1	的@de2	学生@NP2	住在学校。@end	
+      * 谁激怒了老师？（A.研究所B.学生C.研究所或者学生）
+# inter1 130 a										
+  		偏爱@region1	人物传记@region2	的@de1		作家@NP1	的@de2	出版社@NP2	成立100年了。@end	
+      * 谁偏爱人物传记？（A.出版社B.作家C.出版社或者作家）
+# inter1 131 a										
+  	被@passive	读者@region1	烫伤@region2	的@de1		出版社@NP1	的@de2	作家@NP2	三十岁了。@end	
+    * 谁被读者烫伤？（A.出版社B.作家C.出版社或者作家）
+# inter1 132 a										
+  		撞死@region1	保姆@region2	的@de1	那个@dem	事务所@NP1	的@de2	会计@NP2	没有证书。@end	
+      * 谁撞死了保姆？（A.事务所B.会计C.事务所或者会计）
+# inter1 133 a										
+  		吸引了@region1	美术馆@region2	的@de1		投资人@NP1	的@de2	画作@NP2	是一名大学生画的。@end	
+      * 谁吸引了投资人（A.美术馆B.画作C.美术馆或者画作）
+# inter1 134 a										
+  		撕破了@region1	美术馆@region2	的@de1		画作@NP1	的@de2	投资人@NP2	住在芝加哥。@end	
+      * 谁撕破了画作（A.美术馆B.投资人C.美术馆或者投资人）
+# inter1 135 a										
+  		看见了@region1	顾客@region2	的@de1		航空公司@NP1	的@de2	飞行员@NP2	是加拿大人@end	
+      * 谁看见了顾客？（A.航空公司B.飞行员C.航空公司或者飞行员）
+# inter1 136 a										
+  	被@passive	学校@region1	奖励@region2	的@de1	那个@dem	研究所@NP1	的@de2	学生@NP2	住在学校。@end	
+    * 谁被学校奖励了？（A.研究所B.学生C.研究所或者学生）
+# inter1 137 a										
+  	被@passive	病人@region1	扇耳光@region2	的@de1		诊所@NP1	的@de2	医生@NP2	离开了。@end	
+    * 谁被病人扇了耳光？（A.诊所B.医生C.诊所或者医生）
+# inter1 138 a										
+  		拥抱@region1	人民@region2	的@de1	那个@dem	总统@NP1	的@de2	国家@NP2	经济很差。@end	
+      * 谁拥抱了人民？（A.国家B.总统C.国家或者总统）
+# inter1 139 a										
+  	被@passive	医院@region1	拒绝@region2	的@de1		保险公司@NP1	的@de2	推销员@NP2	喜欢打保龄球。@end	
+    * 谁被医院拒绝了？（A.保险公司B.推销员C.保险公司或者推销员）
+# inter1 140 a										
+  		绑架@region1	保险公司@region2	的@de1		邻居@NP1	的@de2	推销员@NP2	喜欢打保龄球。@end	
+      * 谁绑架了邻居？（A.保险公司B.推销员C.保险公司或者推销员）
+# inter1 141 a										
+  		亲吻@region1	婴儿@region2	的@de1	那个@dem	医生@NP1	的@de2	诊所@NP2	关门了。@end	
+      * 谁亲吻了婴儿？（A.诊所B.医生C.诊所或者医生）
+# inter1 142 a										
+  	被@passive	警察@region1	围住@region2	的@de1		员工@NP1	的@de2	大使馆@NP2	今天不上班。@end	
+    * 谁被警察围住了？（A.大使馆B.员工C.大使馆或者员工）
+# inter1 143 a										
+  		认识@region1	电台@region2	的@de1		听众@NP1	的@de2	主播@NP2	失去了姐姐。@end	
+      * 谁认识听众？（A.电台B.主播C.电台或者主播）
+# inter1 144 a										
+  		雇佣@region1	事务所@region2	的@de1		保姆@NP1	的@de2	会计@NP2	没有证书。@end	
+      * 谁雇佣了保姆？（A.事务所B.会计C.事务所或者会计）
